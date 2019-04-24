@@ -1,0 +1,20 @@
+export const PlanetUrls = [
+  "https://vignette.wikia.nocookie.net/starwars/images/a/af/Mustafar_DB.png/revision/latest?cb=20160118061913",
+  "https://starwarsblog.starwars.com/wp-content/uploads/2018/10/mustafar-tall.jpg",
+  "https://www.geek.com/wp-content/uploads/2017/02/Header-625x352.png",
+  "https://picserio.com/data/out/443/star-wars-battlefront-desktop-wallpapers_6458844.png",
+  "https://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/2124725-cybertron.jpg",
+  "https://i.pinimg.com/originals/a7/01/5e/a7015e0c9bc42eb52f62a1a1d1a914ae.jpg",
+  "https://exoplanets.nasa.gov/internal_resources/176",
+  "https://exoplanets.nasa.gov/internal_resources/116",
+  "https://exoplanets.nasa.gov/internal_resources/109",
+  "https://exoplanets.nasa.gov/internal_resources/178",
+  "https://exoplanets.nasa.gov/internal_resources/119",
+  "https://exoplanets.nasa.gov/internal_resources/120",
+  "https://exoplanets.nasa.gov/internal_resources/121",
+  "https://exoplanets.nasa.gov/internal_resources/122",
+  "https://exoplanets.nasa.gov/internal_resources/107",
+  "https://fsmedia.imgix.net/c8/70/dc/2c/100d/4206/9d7f/a25c3914356c/kepler-452b.jpeg?rect=0%2C16%2C1280%2C640&auto=format%2Ccompress&dpr=2&w=650",
+  "https://fsmedia.imgix.net/41/d7/ca/4e/34ef/4fc4/9ab8/25587c3880bf/kepler-22b.png?auto=format%2Ccompress&dpr=2&w=650",
+  "https://upload.wikimedia.org/wikipedia/en/d/d2/Hothplanetsurface.jpg"
+];
