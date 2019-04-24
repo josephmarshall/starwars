@@ -7,7 +7,7 @@ const Person = ({ person }) => (
       padding: "10px",
       alignItems: "center",
       width: "100%",
-      height: "20%",
+      height: "156px",
       backgroundImage:
         "url('https://upload.wikimedia.org/wikipedia/en/7/74/Star_Wars_Planet_Yavin_with_Moon.jpg')",
       backgroundSize: "cover"
